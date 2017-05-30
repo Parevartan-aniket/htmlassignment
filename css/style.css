@@ -54,7 +54,7 @@ li a {
 }
 
 .bgRed {
-	background-color:#15c1e5;
+	background-color:#ff0000;
 }
 
 .bgYellow {
@@ -71,7 +71,7 @@ li a {
 }
 
 .circle {
-	background: url(../images/user.jpg) center center no-repeat;
+	background: url(../images/aniket-saxena.jpg) center center no-repeat;
 	background-size: cover;
 	position: absolute;
 	top: 40%;
@@ -207,12 +207,12 @@ hr {
 
 #about {
 	padding-top: 70px;
-	background-color: #15c1e5;
+	background-color: #ff0000;
 	height: 500px;
 	font-size: 20px;
 	font-weight: 100;
 	font-family: Raleway,sans-serif;
-	color: #fff;
+	color: #00fff0;
 }
 
 .colorWhite {
@@ -274,7 +274,7 @@ input, textarea, button {
 footer {
 	line-height: 1.4;
 	text-align: center;
-	color: #fff;
+	color: #000000;
 	font-size: 14px;
 	font-family: Raleway,sans-serif;
 	background-color: #15c1e5;
